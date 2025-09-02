@@ -1,8 +1,0 @@
-{
-  "latest_version_code": 20,
-  "latest_version_name": "2.0",
-  "force_update": true,
-  "update_url": "https://yourserver.com/apk/app_v2.apk",
-  "title": "نسخه جدید در دسترس است!",
-  "message": "برای استفاده از امکانات جدید و بهبود امنیت، لطفاً اپلیکیشن را به آخرین نسخه به‌روزرسانی کنید."
-}
