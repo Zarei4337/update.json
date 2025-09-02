@@ -2,6 +2,6 @@
   "latest_version_code": 8,
   "force_update": true,
   "update_url": "https://wngames.click/",
-  "telegram_url": "https://t.me/Wn_Games", // <--- این خط جدید رو اضافه کن
+  "telegram_url": "https://t.me/Wn_Games",
   "release_notes": "- سرورهای جدید اضافه شد\n- مشکل قطع شدن تایمر در پس‌زمینه حل شد\n- بهبود سرعت اتصال"
 }
